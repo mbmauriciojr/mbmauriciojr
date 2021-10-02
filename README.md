@@ -2,7 +2,6 @@
 
 - 🔭 Hoje estou fazendo um curso de Desenvolvimento Web Fullstack pela Trybe - https://www.betrybe.com/
 - 🌱 Estudando backend, mais especificamente Node.Js e Deploy
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/mbmauriciojr">
