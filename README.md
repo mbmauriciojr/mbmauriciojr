@@ -14,7 +14,7 @@
 </div>
 <br>
   
-## Ferramentas e Tecnologias
+### Ferramentas e Tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="Tchelo-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Tchelo-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
