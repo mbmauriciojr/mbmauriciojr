@@ -3,7 +3,7 @@
 - 🔭 Hoje estou fazendo um curso de <b>Desenvolvimento Web Fullstack</b> pela <em>Trybe</em> - https://www.betrybe.com/
 - 🌱 Atualmente estudando Back-end, mais especificamente <em>Node.Js</em> e deploy com <em>Heroku</em>
 - 💚 Apaixonado por <em>React</em> e por música
-- 👾 Como hobbie eu gosto de passar meu tempo com livros, jogos, jogos de tabuleiros,RPG de mesa e aprendendo algo novo
+- 👾 Como hobbie eu gosto de passar meu tempo com livros, jogos, jogos de tabuleiros, RPG de mesa e aprendendo algo novo
 - 🎯 Em busca pela primeira oportunidade como <b>Front-end Jr.</b> ou <b>Dev Fullstack Jr.</b>
 
 ### Git Status
