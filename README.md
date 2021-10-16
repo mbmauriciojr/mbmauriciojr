@@ -4,7 +4,7 @@
 - 🌱 Atualmente estudando Back-end, mais especificamente <em>Node.Js</em> com manipulação/conexão de banco, utilizando o <em>Sequelize</em>
 - 💚 Apaixonado por <em>React</em> e por música
 - 👾 Como hobbie eu gosto de passar meu tempo com livros, jogos online, jogos de tabuleiros, RPG de mesa e aprendendo algo novo
-- 🎯 Em busca pela primeira oportunidade como <b>Front-end Jr.</b> ou <b>Dev Fullstack Jr.</b>
+- 🎯 Em busca pela primeira oportunidade como <b>Dev Front-end Jr.</b> ou <b>Dev Fullstack Jr.</b>
 
 ### Git Status
 <div align="center">
@@ -30,7 +30,7 @@
     <img align="center" alt="Tchelo-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Tchelo-Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
   <img align="center" alt="Tchelo-Heroku" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg">
-  <img align="center" alt="Tchelo-Heroku" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg">
+  <img align="center" alt="Tchelo-Sequelize" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg">
 </div>
  
 <br>
