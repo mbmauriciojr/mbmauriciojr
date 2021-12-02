@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Marcelo Maurício, mas pode me chamar de Tchelo!
 
 - 🔭 Hoje estou fazendo um curso de <b>Desenvolvimento Web Fullstack</b> pela <em>Trybe</em> - https://www.betrybe.com/
-- 🌱 Atualmente estudando Back-end, mais especificamente <em>Node.Js</em> com manipulação/conexão de banco, utilizando o <em>Express</em> em camada MVC
+- 🌱 Atualmente estudando Ciência da Computação, mais especificamente <em>Python</em> com raspagem de dados e operações básicas
 - 💚 Apaixonado por <em>React</em> e por música
 - 👾 Como hobbie eu gosto ler livros, jogar jogos onlines ou video games, jogar jogos de tabuleiros com os amigos, e narrar/jogar RPG de mesa ou aprendendo algo novo
 - 🎯 Em busca pela primeira oportunidade como <b>Dev Front-end Jr.</b> ou <b>Dev Fullstack Jr.</b>
