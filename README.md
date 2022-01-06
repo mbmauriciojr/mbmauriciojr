@@ -4,7 +4,7 @@
 - 🌱 Atualmente estudando Ciência da Computação, mais especificamente <em>Python</em> com introdução a <em>Programação Orientada a Objeto</em>
 - 💚 Apaixonado por <em>React</em> e por música
 - 👾 Como hobbie eu gosto ler livros, jogar jogos onlines ou video games, jogar jogos de tabuleiros com os amigos, e narrar/jogar RPG de mesa ou aprendendo algo novo
-- 🎯 Em busca pela primeira oportunidade como <b>Dev Front-end Jr.</b> ou <b>Dev Fullstack Jr.</b>
+- 🎯 Em busca pela primeira oportunidade como <b>Dev Front-end Jr.</b> ou <b>Dev Full-Stack Jr.</b>
 
 ### Git Status
 <div align="center">
