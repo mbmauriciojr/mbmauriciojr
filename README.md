@@ -31,6 +31,7 @@
   <img align="center" alt="Tchelo-Express" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
   <img align="center" alt="Tchelo-Heroku" height="45" width="55"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg">
   <img align="center" alt="Tchelo-Sequelize" height="45" width="55"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg">
+  <img align="center" alt="Tchelo-Sequelize" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
  
 <br>
