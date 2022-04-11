@@ -1,10 +1,10 @@
 ## Olá! Eu sou o Marcelo Maurício, mas pode me chamar de Tchelo!
 
 - 🔭 Formado no curso de <b>Desenvolvimento Web Fullstack</b> pela <em>Trybe</em> - https://www.betrybe.com/
-- 🌱 Atualmente ampliando meus conhecimentos em <em>React.JS</em> e estudando estrutura de dados com <em>Python</em>
+- 🌱 Atualmente estou estudando o <b>framework</b>: <em>Angular</em> para <em>desenvolvimento web</em>
 - 💚 Apaixonado por desvendar desafios e por música
 - 👾 Como hobbie eu gosto ler livros, jogar jogos onlines ou video games, jogar jogos de tabuleiros com os amigos, e narrar/jogar RPG de mesa ou aprendendo algo novo
-- 🎯 Em busca pela primeira oportunidade como <b>Dev Front-end Jr.</b> ou <b>Dev Full-Stack Jr.</b>
+- 🎯 Em busca de melhorar minhas habilidades como <b>Dev Front-end</b> e também como <b>Dev Full-Stack</b>
 
 ### Git Status
 <div align="center">
