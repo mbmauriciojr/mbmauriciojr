@@ -2,9 +2,9 @@
 
 - 🔭 Formado no curso de <b>Desenvolvimento Web Fullstack</b> pela <em>Trybe</em> - https://www.betrybe.com/
 - 🌱 Atualmente estou estudando o <b>framework</b>: <em>Angular</em> para <em>desenvolvimento web</em>
-- 💚 Apaixonado por desvendar desafios e por música
-- 👾 Como hobbie eu gosto de ler livros, jogar jogos onlines ou video games, jogar jogos de tabuleiros com os amigos, e narrar/jogar RPG de mesa ou aprendendo algo novo
-- 🎯 Em busca de melhorar minhas habilidades como <b>Dev Front-end</b> e também como <b>Dev Full-Stack</b>
+- 💚 Apaixonado por desvendar desafios e por principalmente por música
+- 👾 Como hobbie eu gosto de ler livros, jogar video games, jogar jogos de tabuleiros com os amigos, e narrar/jogar RPG de mesa ou aprendendo algo novo
+- 🎯 Em busca de melhorar minhas habilidades como <b>Dev Front-end</b>
 
 ### Git Status
 <div align="center">
