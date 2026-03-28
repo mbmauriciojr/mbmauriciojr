@@ -2,8 +2,8 @@
 
 - 🔭 Formado no curso de <b>Desenvolvimento Web Fullstack</b> pela <em>Trybe</em> - https://www.betrybe.com/
 - 🌱 Atualmente estou estudando o <b>framework</b>: <em>Angular</em> para <em>desenvolvimento web</em>
-- 💚 Apaixonado por desvendar desafios e por principalmente por música
-- 👾 Como hobbie eu gosto de ler livros, jogar video games, jogar jogos de tabuleiros com os amigos, e narrar/jogar RPG de mesa ou aprendendo algo novo
+- 💚 Apaixonado por desvendar desafios e principalmente por música
+- 👾 Como hobbie eu gosto de ler livros, jogar video games, jogos de tabuleiros com os amigos, e narrar/jogar RPG de mesa ou aprendendo algo novo
 - 🎯 Em busca de melhorar minhas habilidades como <b>Dev Front-end</b>
 
 ### Git Status
@@ -22,17 +22,20 @@
   <img align="center" alt="Tchelo-CSS" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Tchelo-Js" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Tchelo-Angular" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Tchelo-RxJs" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rxjs/rxjs-original.svg">
+  <img align="center" alt="Tchelo-NgRx" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ngrx/ngrx-original.svg">
   <img align="center" alt="Tchelo-React" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Tchelo-Redux" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
   <img align="center" alt="Tchelo-Bootstrap" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Tchelo-Jest" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
   <img align="center" alt="Tchelo-MySQL" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Tchelo-MongoDB" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
-    <img align="center" alt="Tchelo-NodeJS" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Tchelo-NodeJS" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Tchelo-Express" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
   <img align="center" alt="Tchelo-Heroku" height="45" width="55"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg">
   <img align="center" alt="Tchelo-Sequelize" height="45" width="55"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg">
   <img align="center" alt="Tchelo-Python" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Tchelo-Postman" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
 </div>
  
 <br>
