@@ -20,8 +20,10 @@
   <img align="center" alt="Tchelo-Git" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Tchelo-HTML" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Tchelo-CSS" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Tchelo-Js" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Tchelo-Angular" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Tchelo-Javascript" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Tchelo-Typescript" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  
+  <img align="center" alt="Tchelo-Angular" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
   <img align="center" alt="Tchelo-RxJs" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rxjs/rxjs-original.svg">
   <img align="center" alt="Tchelo-NgRx" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ngrx/ngrx-original.svg">
   <img align="center" alt="Tchelo-React" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
